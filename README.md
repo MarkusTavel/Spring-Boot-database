@@ -63,6 +63,6 @@ Fill in neccessary fields to make connection
 
 From servers menu (left side)
 
-Name/Databases/db/Schemas/public/Tables/value
+db/Databases/db/Schemas/public/Tables/value
 
 Right click and "View/Edit Data"
