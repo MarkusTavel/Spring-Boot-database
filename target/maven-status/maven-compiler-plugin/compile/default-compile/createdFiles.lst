@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\messageDatabase\Value.class
+com\example\demo\messageDatabase\ValueRepository.class
+com\example\demo\messageDatabase\ValueController.class
