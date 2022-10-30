@@ -10,6 +10,17 @@ Application wont start locally without database connection.
 
 ## Start
 
+First make new clean build
+
+```
+make clean
+```
+Copy new jar file to root direcory for dockerfile access
+
+```
+cp target/demo-0.0.1-SNAPSHOT.jar ./
+```
+
 At project root folder run 
 ```
 make start
