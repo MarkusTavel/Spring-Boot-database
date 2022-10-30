@@ -41,9 +41,9 @@ Open **localhost:8080** on browser
 NB - every new insertion rewrites old values.
 * Delete values - Deletes all values from database
 
-## Database
+## Database/PgAdmin
 
-To view/use database open **localhost:5050** on browser
+To view/use database open PgAdmin - **localhost:5050** on browser
 
 **Login:**
 
@@ -63,6 +63,6 @@ Fill in neccessary fields to make connection
 
 From servers menu (left side)
 
-db/Databases/db/Schemas/public/Tables/value
+Name/Databases/db/Schemas/public/Tables/value
 
 Right click and "View/Edit Data"
